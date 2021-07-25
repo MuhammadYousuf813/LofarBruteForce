@@ -44,6 +44,10 @@
        1) this script is only for educational purposes
        2) i am not responsible for your actions.
 
+     # That's All :)
+       1) This Script Coded By YOUSUF ALZADJALI (LOFAR)
+       2) Thanks For Usage
+       3) Have A Nice Day...GoodBye :)
 
 
 
