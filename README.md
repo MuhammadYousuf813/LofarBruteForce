@@ -16,4 +16,14 @@
         
      
      # For Install
-        
+       git clone https://github.com/MuhammadYousuf813/LofarBruteForce
+
+       cd LofarBruteForce/
+
+       pip install requests
+
+       pip install mechanize
+
+       pip2 install requests
+
+       pip2 install mechanize
