@@ -40,7 +40,9 @@
         1) Use Strong Password which contains {letters(lower,upper),tokens,numbers} make it longest as possible, at least 10            letters.
         2) Use 2F Authentication.
 
-
+     # WARNING:
+       1) this script is only for educational purposes
+       2) i am not responsible for your actions.
 
 
 
