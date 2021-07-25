@@ -12,5 +12,8 @@
         
         
         Get Target Facebook Profile ID:
-        python2 LofarBruteForce.YS -g https://www.facebook.com/zuck
+        python2 LofarBruteForce.YS -g https://www.facebook.com/zuck 
+        
+     
+     # For Install
         
