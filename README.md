@@ -27,3 +27,13 @@
        pip2 install requests
 
        pip2 install mechanize
+
+
+     # Supported Platforms:
+       1) Windows
+       2) Linux
+       3) Android~Termux
+       4) MacOs
+       5) any Os has python(2.x, 3.x) with required modules
+
+       4) 
