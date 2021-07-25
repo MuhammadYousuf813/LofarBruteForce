@@ -36,4 +36,4 @@
        4) MacOs
        5) any Os has python(2.x, 3.x) with required modules
 
-       4) 
+      
