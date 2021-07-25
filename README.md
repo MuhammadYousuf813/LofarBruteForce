@@ -36,4 +36,13 @@
        4) MacOs
        5) any Os has python(2.x, 3.x) with required modules
 
-      
+     # Protect yourself from this attack:
+  Use Strong Password which contains {letters(lower,upper),tokens,numbers} make it longest as possible, at least 10 letters
+
+  don't use your basic information in the password for example don't use your name or birthday
+
+  because the hacker can do a information gathering attack and get this information easily
+
+  then he will generate a wordlist based on this info.
+
+  Use 2F Authentication.
